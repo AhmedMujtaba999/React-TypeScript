@@ -75,5 +75,5 @@ export default defineConfig([
 ## 📸 App Screenshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedMujtaba999/React-TypeScript/src/TypeScript.jpeg" width="700"/>
+  <img src="https://github.com/AhmedMujtaba999/React-TypeScript/src/TypeScript.jpeg" width="700"/>
 </p>
